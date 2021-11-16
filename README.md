@@ -1,2 +1,0 @@
-# facerecognitionbrain-api
-facerecognitionbrain-api
